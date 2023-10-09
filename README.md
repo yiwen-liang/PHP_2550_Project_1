@@ -8,11 +8,11 @@ In this project, we mainly conduct an exploratory analysis of the data from Dr. 
 
 ## Documents Available
 
-* PHP2550_Proejct1_Yiwen_Liang.pdf: the submitted report of this project assignment.
+* *PHP2550_Proejct1_Yiwen_Liang.pdf*: the submitted report of this project assignment.
 
-* PHP2550_Proejct1_Yiwen_Liang.Rmd: the code file (.rmd) for this report, including all codes for creating tables and figures in the report.
+* *PHP2550_Proejct1_Yiwen_Liang.Rmd*: the code file (.rmd) for this report, including all codes for creating tables and figures in the report.
 
-* Project 1 Codebook.xlsx: the codebook for the pre-processed dataset.
+* *Project 1 Codebook.xlsx*: the codebook for the pre-processed dataset.
 
 ## Authors
 
